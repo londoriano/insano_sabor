@@ -24,15 +24,15 @@ input[type="checkbox"]:focus {
 }
 
 .banner-1 {
-  background-image: url(./assets/banner1.jpg);
+  background-image: url(./banner1.jpg);
 }
 
 .banner-2{
-  background-image: url(./assets/banner2.jpg);
+  background-image: url(./banner2.jpg);
 }
 
 .banner-3{
-  background-image: url(./assets/banner3.jpg)
+  background-image: url(./banner3.jpg)
 }
 
 .banners {
