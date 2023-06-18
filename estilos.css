@@ -27,12 +27,24 @@ input[type="checkbox"]:focus {
   background-image: url(/banner1.jpg);
 }
 
+.banner-1Mobile {
+  background-image: url(/banner1Mobile.jpg);
+}
+
 .banner-2{
   background-image: url(/banner2.jpg);
 }
 
+.banner-2Mobile{
+  background-image: url(/banner2Mobile.jpg);
+}
+
 .banner-3{
   background-image: url(/banner3.jpg)
+}
+
+.banner-3Mobile{
+  background-image: url(/banner3Mobile.jpg)
 }
 
 .banners {
